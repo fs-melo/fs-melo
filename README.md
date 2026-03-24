@@ -1,4 +1,4 @@
-# 👨‍💻 Fabrício Silva
+# 👨‍💻 Fabrício Melo
 
 <p align="center">
   <b>Software Architect | AI Engineer (NLP) | MSc Computer Science</b><br/>
