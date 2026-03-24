@@ -20,10 +20,10 @@ End-to-end Retrieval-Augmented Generation (RAG) system designed for real-world a
 - LLM-based answer generation
 
 **Tech:**
-- Python, PySpark
-- Vector DB (FAISS / similar)
+- Python, Java, Angular, Vue, PySpark, Databricks
+- VectorDB
 - LLM integration
-- REST API (Spring Boot)
+- REST API (Spring Boot, FastAPI, Flask)
 
 **Highlights:**
 - Context-aware responses
